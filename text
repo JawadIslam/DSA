@@ -1,0 +1,8 @@
+Complexity Analysis
+• Time Complexity:
+ - Building the tree: O(n log n) using priority
+queue.
+• Space Complexity:
+ - O(n) for storing the tree and codes.
+• Efficient for skewed frequency distributions.
+• Less effective if frequencies are uniform
